@@ -44,3 +44,5 @@ https://www.reddit.com/r/thinkpad/comments/aw5xg2/bios_update_for_thinkpad_yoga_
 https://superuser.com/questions/1569417/how-to-update-lenovo-bios-on-a-t460-without-battery
 https://www.thinkwiki.org/wiki/BIOS_Upgrade#Updating_without_battery_or_with_dead_battery
 https://forums.lenovo.com/t5/Gaming-Laptops/Y540-BIOS-Recovery-Mode-Flash-BIOS-from-USB/m-p/5026109 is a useful thread which allegedly details a way to recover from a corrupted BIOS flash
+
+The first part was tested on a Thinkpad Edge E431 on Windows 8.1. However the 2nd part involving 2 files has not been tested by me -- proceed with caution!!
