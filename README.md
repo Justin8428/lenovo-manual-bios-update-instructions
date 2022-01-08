@@ -4,7 +4,7 @@ Some instructions on how to do a "manual update" of Lenovo Thinkpad BIOS/UEFI (f
 Here we will use the `winflash64.exe` tool provided directly by Lenovo and written by Phoenix Technolgies (this exe is included with the installers from Lenovo's website). 
 Personally I haven't had much luck with the PhoneixUEFI flasher tool so I don't really recommend you use it...
 (In fact the normal tool is just a frontend wrapper around `winflash64.exe`, so by calling this tool directly from the command line we can bypass the battery checks Lenovo has put in).
-Also note that burning the provided `.iso` file onto a CD or USB will NOT let you skip the battery check!
+Also note that burning Lenovo's `.iso` file onto a CD or USB will NOT let you skip the battery check!
 
 Run `winflash64.exe -help` to display all the options.
 
